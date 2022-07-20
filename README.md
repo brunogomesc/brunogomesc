@@ -16,7 +16,6 @@
   <img align="center" alt="Bruno-Csharp" height="35" width="50" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logoColor=white">
   <img align="center" alt="Bruno-Python" height="35" width="50" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white">
   <img align="center" alt="Bruno-DotNet" height="35" width="50" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logoColor=white">
-  <img align="center" alt="Bruno-NodeJS" height="35" width="50" src="	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logoColor=white">
   <img align="center" alt="Bruno-GPC" height="35" width="100" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logoColor=white">
   <img align="center" alt="Bruno-SQLServer" height="35" width="150" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logoColor=white">
 </div>
