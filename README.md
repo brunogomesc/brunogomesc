@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on back-end
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and C#
 
 ###
 
