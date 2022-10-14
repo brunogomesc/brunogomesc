@@ -1,7 +1,7 @@
 ### Hi, I am Bruno Gomes 👋
 
 
-- 🔭 I’m currently working on back-end developing with C# and APS .Net Core
+- 🔭 I’m currently working on back-end developing with C# and ASP .Net Core
 - 🌱 I’m currently learning Python
 
 ###
