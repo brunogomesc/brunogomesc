@@ -1,7 +1,7 @@
 <!--
   MODELO DE README — copie este arquivo para o seu projeto como README.md.
   Legenda:  [OBRIGATÓRIO] = nunca deixe de fora  |  [RECOMENDADO]  |  [OPCIONAL]
-  Apague todos os comentários <!-- --> e seções opcionais que não se aplicam.
+  Apague todos os comentários HTML e seções opcionais que não se aplicam.
 -->
 
 <!-- [OBRIGATÓRIO] Nome + descrição em UMA frase: o que é e para quem serve. -->
